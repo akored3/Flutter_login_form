@@ -17,7 +17,7 @@ class _LoginData {
 class _CustomLoginFormState extends State<CustomLoginForm> {
   final _formKey = GlobalKey<FormState>();
 
-//instatiating the object of type login
+//instantiating the object of type login
   _LoginData _data = new _LoginData();
 
   @override
